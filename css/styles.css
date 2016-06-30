@@ -1,0 +1,19 @@
+p, h1 {
+	text-align: center;
+}
+#catContainer {
+	width: 100%;
+	display: flex;
+}
+.catDiv {
+	margin: 0 10px 0 10px;
+	width: 100%;
+}
+.catPic {
+	width: 100%;
+	height: 250px;
+
+}
+.catCounter {
+	width: 100%;
+}
